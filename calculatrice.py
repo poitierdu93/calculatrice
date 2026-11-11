@@ -107,3 +107,4 @@ if lancement.lower() == "oui":
           print("Erreur : Division par zéro impossible !")
       else:
           print(f" {calcul_text} = {format_nombre(resultat)}")
+time.sleep(60)
