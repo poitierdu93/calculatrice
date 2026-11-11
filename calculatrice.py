@@ -106,4 +106,4 @@ if lancement.lower() == "oui":
       if erreur:
           print("Erreur : Division par zéro impossible !")
       else:
-          print(f"\n[résultat] {calcul_text} = {format_nombre(resultat)}")
+          print(f" {calcul_text} = {format_nombre(resultat)}")
